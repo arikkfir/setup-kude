@@ -1,5 +1,9 @@
 name: Setup Kude
 description: Setup Kude CLI
+author: arik@kfirs.com
+branding:
+  color: blue
+  icon: download-cloud
 inputs:
   version:
     description: Kude version to download
