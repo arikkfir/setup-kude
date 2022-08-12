@@ -17,3 +17,4 @@ runs:
     - run: chmod +x /usr/local/bin/kude
       shell: bash
     - run: kude --version
+      shell: bash
